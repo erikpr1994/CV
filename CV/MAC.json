@@ -8,7 +8,6 @@
     "profile": {
       "name": "Erik",
       "surnames": "Pastor Rios",
-      "title": "",
       "description": "I'm a recent graduate from Codeworks (Barcelona) who really enjoys coding and is eager to learn. \nThe computer science world of one of my passions and  I love to have the opportunity to work on it.\nI've been working as a Senior Technical Support Agent for almost two years at Glovo and in July I decided to give a step ahead in my career and do a Bootcamp.\n\nI enjoy a lot of practicing sports and I recently discovered the world of finance and I'm enjoying it a lot.\nI'm a super curious person that always wants to learn as much as possible and go further in things I'm interested in.",
       "location": {
         "notes": "Vallirana, Barcelona"
@@ -16,16 +15,103 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/erikpr94/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/erikpr1994"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/erikpr1994"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/erikpr94/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Datadog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Babel",
+          "type": "technology"
+        }
       }
     ]
   },
