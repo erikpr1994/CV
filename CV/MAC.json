@@ -49,7 +49,21 @@
         "roles": [
           {
             "name": "Software Engineer",
-            "startDate": "2023-10-01"
+            "startDate": "2023-10-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
