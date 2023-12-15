@@ -1,19 +1,27 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Erik",
       "surnames": "Pastor Rios",
+      "title": "Title",
       "description": "I'm a recent graduate from Codeworks (Barcelona) who really enjoys coding and is eager to learn. \nThe computer science world of one of my passions and  I love to have the opportunity to work on it.\nI've been working as a Senior Technical Support Agent for almost two years at Glovo and in July I decided to give a step ahead in my career and do a Bootcamp.\n\nI enjoy a lot of practicing sports and I recently discovered the world of finance and I'm enjoying it a lot.\nI'm a super curious person that always wants to learn as much as possible and go further in things I'm interested in.",
       "location": {
-        "notes": "Vallirana, Barcelona"
+        "notes": "Autocompleted using Google Maps API (id: ChIJ8YvwKbWFpBIRG3WdX6zj8IM)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Vallirana"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/erikpr94/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/erikpr1994"
@@ -21,26 +29,52 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/erikpr1994"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/erikpr94/"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "CA",
+        "fullName": "Catalán",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Babel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Datadog",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JAVA",
@@ -55,25 +89,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "Jira",
           "type": "technology"
         }
       },
@@ -85,13 +101,19 @@
       },
       {
         "skill": {
-          "name": "Jira",
+          "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AJAX",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -100,17 +122,25 @@
           "name": "Vuex",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "softSkills": [
       {
         "skill": {
-          "name": "Datadog",
-          "type": "technology"
+          "name": "Adaptability to change",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Babel",
-          "type": "technology"
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
         }
       }
     ]
@@ -119,10 +149,37 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/erikpr94/"
+          "URL": "https://www.linkedin.com/in/erikpr94/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/erikpr1994",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/erikpr1994",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "erikpastorrios1994@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "616912282",
+          "countryCode": "+34"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My dream job is to work for a company who takes care of his employees above all else and trusts them."
   }
 }
