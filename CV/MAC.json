@@ -131,6 +131,32 @@
               {
                 "description": "Ingeniero Frontend dedicado al diseño, desarrollo y mantenimiento de aplicaciones web desarrolladas con Vue y Nuxt. Usamos SCSS con las últimas funciones para los navegadores más conocidos, así como bibliotecas como Vuex, storybook, eslint, jest, cypress."
               }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
             ]
           }
         ]
