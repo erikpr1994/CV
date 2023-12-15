@@ -6,9 +6,14 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Erik",
-      "surnames": "Pastor Rios",
-      "title": "Software engineer",
+      "name": "🧑🏼‍💻",
+      "surnames": "Erik Pastor Rios",
+      "title": "Software Engineer at Dataguard",
+      "description": "Ingeniero de software con experiencia trabajando en el ecosistema JavaScript: React, Vue, Node, Express, Koa, SQL, MongoDB, Jest y más.\n\nSoy un profesional trabajador con pasión por el aprendizaje constante de nuevas tecnologías y la mejora continua a través de nuevos desafíos.\n\nFuera de la programación, me apasionan los superhéroes, las finanzas y la fotografía. También puedes encontrarme caminando al aire libre porque amo la naturaleza ⛰ o corriendo cerca de la playa🏃🏻.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/898c1943-683f-4e8b-a6e2-f14bfd14835d_linkedin-photo-294.linkedin-photo-294",
+        "alt": "23/12/15/898c1943-683f-4e8b-a6e2-f14bfd14835d_linkedin-photo-294.linkedin-photo-294"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJFwMuZ-eYpBIR1QVMT5h6EjY)",
         "country": "España",
@@ -19,7 +24,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/erikpr94/"
+        "URL": "https://linkedin.com/in/erikpr94"
       },
       {
         "type": "github",
@@ -36,6 +41,11 @@
       {
         "name": "CA",
         "fullName": "Catalán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "CA",
+        "fullName": "Valenciano",
         "level": "Limited working proficiency"
       },
       {
@@ -122,33 +132,13 @@
           "type": "technology"
         }
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Attention to detail",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Critical view",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/erikpr94/",
+          "URL": "https://linkedin.com/in/erikpr94",
           "type": "linkedin"
         },
         {
