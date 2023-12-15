@@ -11,8 +11,8 @@
       "title": "Software Engineer at Dataguard",
       "description": "Ingeniero de software con experiencia trabajando en el ecosistema JavaScript: React, Vue, Node, Express, Koa, SQL, MongoDB, Jest y más.\n\nSoy un profesional trabajador con pasión por el aprendizaje constante de nuevas tecnologías y la mejora continua a través de nuevos desafíos.\n\nFuera de la programación, me apasionan los superhéroes, las finanzas y la fotografía. También puedes encontrarme caminando al aire libre porque amo la naturaleza ⛰ o corriendo cerca de la playa🏃🏻.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/39bcbe72-43cb-4892-a41f-a707d1763262_linkedin-photo-294.linkedin-photo-294",
-        "alt": "23/12/15/39bcbe72-43cb-4892-a41f-a707d1763262_linkedin-photo-294.linkedin-photo-294"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/460978c7-212c-4046-aab3-a8ce8b0f1ceb_linkedin-photo-294.linkedin-photo-294",
+        "alt": "23/12/15/460978c7-212c-4046-aab3-a8ce8b0f1ceb_linkedin-photo-294.linkedin-photo-294"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJFwMuZ-eYpBIR1QVMT5h6EjY)",
@@ -33,6 +33,193 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/erikpr1994"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "DataGuard",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/95f1795d-8bc2-4061-a412-112edcdd2ae7_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/95f1795d-8bc2-4061-a412-112edcdd2ae7_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2023-10-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Glovo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/049e6582-4420-415b-97da-d49be3e0c5d2_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/049e6582-4420-415b-97da-d49be3e0c5d2_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engineer II",
+            "startDate": "2022-02-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Frontend Engineer dedicated to designing, developing and maintaining web applications developed with Vue and Nuxt. We use SCSS with the latest features for the most known browsers as well as libraries like Vuex, storybook, eslint, jest, cypress."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Glovo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/e5a342a3-9b9c-4173-8a98-02d2f2c35db7_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/e5a342a3-9b9c-4173-8a98-02d2f2c35db7_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer I",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Ingeniero Frontend dedicado al diseño, desarrollo y mantenimiento de aplicaciones web desarrolladas con Vue y Nuxt. Usamos SCSS con las últimas funciones para los navegadores más conocidos, así como bibliotecas como Vuex, storybook, eslint, jest, cypress."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Glovo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/87dd223f-adfb-4657-8fda-95952811fab3_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/87dd223f-adfb-4657-8fda-95952811fab3_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Tech Support",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "En Glovo realizo un soporte de nivel 2 centrado en las aplicaciones desarrolladas por nuestro equipo de ingenieros.\nComo soporte de nivel 2 tengo contacto directo con ingenieros, ingenieros manager, product manager, stakeholders y VP's de engineria y Producto.\n\nEntre mis tareas están:\n- Enseñar y entrenar a los miembros del equipo.\n- Supervisar el correcto diagnostico de las incidencias por parte del resto del equipo.\n- Identificación de errores de código.\n- Identificación y resolución de problemas de configuración.\n- Documentación de procedimientos.\n- Reuniones semanales con los ingenieros managers y el VP de ingeniería para comprobar que los KPI se estén cumpliendo y implementar mejoras en el departamento de Tech.\n\nEntre las herramientas que usamos para gestionar y identificar las incidencias están:\nJira y Jira service Desk: Gestión de incidencias.\nConfluence: Gestor de documentación.\nDatadog: Aplicación para revisar las llamadas HTTP realizadas por nuestras aplicaciones.\nSentry: Aplicación para revisar fallos en el código."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Glovo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/243c8ba8-8390-4324-bd4e-89a404841d5b_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/243c8ba8-8390-4324-bd4e-89a404841d5b_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Tech Support",
+            "startDate": "2020-04-01",
+            "finishDate": "2020-07-31",
+            "challenges": [
+              {
+                "description": "En Glovo realizo un soporte de nivel 2 centrado en las aplicaciones desarrolladas por nuestro equipo de ingenieros.\nComo soporte de nivel 2 tengo contacto directo con ingenieros, ingenieros manager, product manager, stakeholders y VP's de engineria y Producto.\n\nEntre mis tareas están:\n- Enseñar y entrenar a los miembros del equipo.\n- Supervisar el correcto diagnostico de las incidencias por parte del resto del equipo.\n- Identificación de errores de código.\n- Identificación y resolución de problemas de configuración.\n- Documentación de procedimientos.\n- Reuniones semanales con los ingenieros managers y el VP de ingeniería para comprobar que los KPI se estén cumpliendo y implementar mejoras en el departamento de Tech.\n\nEntre las herramientas que usamos para gestionar y identificar las incidencias están:\nJira y Jira service Desk: Gestión de incidencias.\nConfluence: Gestor de documentación.\nDatadog: Aplicación para revisar las llamadas HTTP realizadas por nuestras aplicaciones.\nSentry: Aplicación para revisar fallos en el código."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Glovo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/408f3832-a0c8-46b6-9dbc-0cfd19ca16e0_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/408f3832-a0c8-46b6-9dbc-0cfd19ca16e0_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tech Support",
+            "startDate": "2018-11-01",
+            "finishDate": "2020-04-30",
+            "challenges": [
+              {
+                "description": "En Glovo realizo un soporte de nivel 2 centrado en las aplicaciones desarrolladas por nuestro equipo de ingenieros.\nComo soporte de nivel 2 tengo contacto directo con ingenieros, ingenieros manager, product manager, stakeholders y VP's de engineria y Producto.\n\nEntre mis tareas están:\n- Identificación de errores de código.\n- Identificación y resolución de problemas de configuración.\n- Documentación de procedimientos.\n\nEntre las herramientas que usamos para gestionar y identificar las incidencias están:\nJira y Jira service Desk: Gestión de incidencias.\nConfluence: Gestor de documentación.\nDatadog: Aplicación para revisar las llamadas HTTP realizadas por nuestras aplicaciones.\nSentry: Aplicación para revisar fallos en el código."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cast Info",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/fa5662ff-dbbe-4dc4-b975-dbfa8c87bdea_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/fa5662ff-dbbe-4dc4-b975-dbfa8c87bdea_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Helpdesk",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Destinado a cliente Grifols.\nSoporte telefónico de primer nivel en hardware y software no propio.\nGestión y escalado de tickets.\nMigración de telefonía Avaya a Cisco.\nSoporte remoto de segundo nivel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibermáctica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/3b1068a6-f26c-4006-8a8a-6345c14cb542_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/3b1068a6-f26c-4006-8a8a-6345c14cb542_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Helpdesk Junior",
+            "startDate": "2017-02-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "Soporte, gestión y resolución de incidencias de primer nivel en software propio del cliente: Universitat Oberta de Catalunya."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sii Concatel",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/63fb1453-4ab6-4471-bc3f-b6b78ac85ad4_linkedin-photo-294.linkedin-photo-294",
+            "alt": "23/12/15/63fb1453-4ab6-4471-bc3f-b6b78ac85ad4_linkedin-photo-294.linkedin-photo-294"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico de sistemas",
+            "startDate": "2016-05-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Realización de labores de técnico de campo resolviendo incidencias tanto a nivel corporativo como a clientes.\nInstalación y mantenimiento de equipos y comunicaciones de la empresa.\nGestión y mantenimiento del Directorio Activo y del servidor de correo."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
