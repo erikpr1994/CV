@@ -315,43 +315,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Babel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Datadog",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -370,18 +334,6 @@
       {
         "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
           "type": "technology"
         }
       }
@@ -474,10 +426,6 @@
       },
       {
         "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "Vue",
         "type": "technology"
       }
     ],
