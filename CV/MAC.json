@@ -348,6 +348,42 @@
           "name": "I.E.S. Esteve Terrades"
         },
         "finishDate": "2013-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS de desarrollo de aplicaciones web",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "OUC X"
+        },
+        "finishDate": "2021-07-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
