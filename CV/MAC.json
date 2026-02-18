@@ -385,6 +385,14 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
