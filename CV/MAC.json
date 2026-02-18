@@ -338,6 +338,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGM de sistemas microinformáticos y redes",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "I.E.S. Esteve Terrades"
+        },
+        "finishDate": "2013-07-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
