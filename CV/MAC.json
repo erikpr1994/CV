@@ -87,7 +87,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -134,7 +134,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -293,7 +293,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
@@ -339,7 +339,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -401,15 +401,6 @@
         {
           "URL": "https://twitter.com/erikpr1994",
           "type": "twitter"
-        }
-      ],
-      "contactMails": [
-        "erikpastorrios1994@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "616912282",
-          "countryCode": "+34"
         }
       ]
     },
