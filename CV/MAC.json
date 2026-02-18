@@ -384,6 +384,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Software engineering immersive course",
+        "startDate": "2020-08-01",
+        "institution": {
+          "name": "Codeworks",
+          "URL": "https://codeworks.me/software-engineering-bootcamp/"
+        },
+        "finishDate": "2020-10-01"
       }
     ],
     "softSkills": [
