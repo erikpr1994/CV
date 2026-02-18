@@ -419,6 +419,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer",
         "Full-stack Developer"
